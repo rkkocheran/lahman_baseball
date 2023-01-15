@@ -1,6 +1,6 @@
 ## Lahman Baseball Project
 
-This is a repository for an exploratory analyses of the Lahman Baseball database which was used to determine player, team and managerial statistics. This project was completed during my Data Analytics apprenticeship at [Nashville Software School](https://nashvillesoftwareschool.com/). The technology and skills employed to achieve this goal include: SQL (CTEs, Subqueries, Joins, Window Functions), PostgreSQL, pgAdmin, and ERDs.
+This is a repository for exploratory analyses of the Lahman Baseball database, which was used to determine player, team and managerial statistics. This project was completed during my Data Analytics apprenticeship at [Nashville Software School](https://nashvillesoftwareschool.com/). The technology and skills employed to achieve this goal include: SQL (CTEs, Subqueries, Joins, Window Functions), PostgreSQL, pgAdmin, and ERDs.
 
 - This project was a team effort with contributions from Adam Crank and Morgan Hines.
 - The data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman.
